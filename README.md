@@ -24,6 +24,7 @@ Let's show you how to select and modify code with our API
 ```javascript
 const a = 1;
 const b = 2;
+const op = 0;
 ```
 
 ### Transform With GoGoCode
